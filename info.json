@@ -1,0 +1,11 @@
+{
+  "name": "USDTZED 20",
+  "symbol": "USDTZ",
+  "decimals": 6,
+  "description": "Stablecoin on BSC",
+  "type": "BEP20",
+  "id": "0xcb12771d5d04f9bea6d84b5eb77fe1878801b29d",
+  "website": "",        // optional, can leave empty if no website
+  "explorer": "https://bscscan.com/token/0xcb12771d5d04f9bea6d84b5eb77fe1878801b29d"  // strongly recommended
+}
+
